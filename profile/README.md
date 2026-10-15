@@ -26,5 +26,5 @@
 
 | Repository | |
 |---|---|
-| [**Kept**](https://github.com/ibrahimroshdy/kept) | The app. AGPL-3.0. Docker Compose or Kubernetes, amd64 or arm64. |
+| [**Kept**](https://github.com/keptinventory/kept) | The app. AGPL-3.0. Docker Compose or Kubernetes, amd64 or arm64. |
 | [**Kept for Home Assistant**](https://github.com/keptinventory/kept-homeassistant) | HACS integration. Apache-2.0. |
