@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question
+    url: https://github.com/keptinventory/kept/discussions
+    about: Ask in Kept's discussions.
+  - name: Documentation
+    url: https://keptinventory.info/
+    about: Install, use and run Kept.
+  - name: Security problem
+    url: https://github.com/keptinventory/kept/security/advisories/new
+    about: Report it privately, never in a public issue.
