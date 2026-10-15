@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Something doesn't work as it should
-labels: bug
+labels: bug, "status: needs triage"
 ---
 
 <!-- A security problem? Don't open an issue: see SECURITY.md. -->

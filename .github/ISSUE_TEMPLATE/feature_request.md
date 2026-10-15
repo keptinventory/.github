@@ -1,7 +1,7 @@
 ---
 name: Idea
 about: Something Kept could do
-labels: enhancement
+labels: idea, "status: needs triage"
 ---
 
 **What you're trying to do**
